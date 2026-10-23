@@ -7,6 +7,7 @@ console.log("Sum: ", sum(1, 2));
 console.log(myUndefinedVariable);
 
 for (let i = 0; i < 10; i--) {
+  console.log(i);
 }
 var myArray=['a', 'b', 'c']
 
